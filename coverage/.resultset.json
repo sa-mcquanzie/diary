@@ -1,0 +1,20 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/bea/makers/course/week4/diary/app.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1629217391
+  }
+}
